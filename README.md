@@ -59,6 +59,6 @@ In the future, Movie Bucket may include the following improvements:
 - Enhancing the styles and layout of the app.
 - Adding more features such as sorting, filtering, and pagination.
 
-## Thanks
+## Acknowledgements
 
 I would like to thank Jonas Schmedtmann, a web developer and instructor, for his guidance and inspiration. 
